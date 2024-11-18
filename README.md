@@ -4,7 +4,7 @@ With this Matlab app it is possible to access the solar data in the NREL databas
 
 ## Usage
 
-To use the app, the user needs to have a NREL API key. The key can be obtained by registering at the NREL website<sup>1,2</sup>. The key needs to be entered in the app before the data can be accessed. Also an OpenWeatherMap<sup>3</sup> API key is needed to access location data. The key can be obtained by registering at the OpenWeatherMap website. The key needs to be entered in the app before the weather data can be accessed.
+To use the app, the user needs to have a NREL API key. The key can be obtained by registering at the NREL website<sup>1,2</sup>. The key needs to be entered in the app before the data can be accessed. Also an OpenWeatherMap<sup>3</sup> API key is needed to access location data. The key can be obtained by registering at the OpenWeatherMap website. The key needs to be entered in the app before the location data can be accessed.
 
 Simple use case is presented [here](https://youtu.be/PZGQp4jDT-Q)
 
