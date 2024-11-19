@@ -8,6 +8,9 @@ To use the app, the user needs to have a NREL API key. The key can be obtained b
 
 Simple use case is presented [here](https://youtu.be/PZGQp4jDT-Q)
 
+![screenshot-map](./imgs/screenshot-map.png)
+![screenshot-graphs](./imgs/screenshot-graphs.png)
+
 ## License
 
 MIT License. Icon by [Gulraiz](https://www.flaticon.com/authors/gulraiz).
