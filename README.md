@@ -1,6 +1,6 @@
 # NREL Solar Data App
 
-With this Matlab app it is possible to access the solar data in the NREL database. The app is based on the NREL API and the user can access the solar data for continental USA by selecting a location. The solar data from the NREL measurements for the selected location is then displayed in a graph. The user can also download the data in a csv file. Multiple points can also be selected and the data for all the points can be exported in a single csv file.
+With this Matlab app it is possible to access the solar data in the NREL database. The app is based on the NREL API and the user can access the solar data for continental USA by selecting a location. The solar data from the NREL measurements for the selected location is then displayed in a graph. The user can also download the data in a JSON file. Multiple points can also be selected and the data for all the points can be exported in a single JSON file.
 
 ## Usage
 
